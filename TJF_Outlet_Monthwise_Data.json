@@ -1,0 +1,2473 @@
+[
+  {
+    "Month":"Sep-23",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"247107",
+    "Number of Orders":"210",
+    "Avg Bill Value":"39"
+  },
+  {
+    "Month":"Oct-23",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"402070",
+    "Number of Orders":"334",
+    "Avg Bill Value":"39"
+  },
+  {
+    "Month":"Nov-23",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"262078",
+    "Number of Orders":"218",
+    "Avg Bill Value":"40"
+  },
+  {
+    "Month":"Dec-23",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"178965",
+    "Number of Orders":"154",
+    "Avg Bill Value":"38"
+  },
+  {
+    "Month":"Jan-24",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"151135",
+    "Number of Orders":"118",
+    "Avg Bill Value":"41"
+  },
+  {
+    "Month":"Feb-24",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"196915",
+    "Number of Orders":"172",
+    "Avg Bill Value":"38"
+  },
+  {
+    "Month":"Mar-24",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"299536",
+    "Number of Orders":"237",
+    "Avg Bill Value":"41"
+  },
+  {
+    "Month":"Apr-24",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"354480",
+    "Number of Orders":"282",
+    "Avg Bill Value":"42"
+  },
+  {
+    "Month":"May-24",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"411280",
+    "Number of Orders":"245",
+    "Avg Bill Value":"54"
+  },
+  {
+    "Month":"Jun-24",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"202240",
+    "Number of Orders":"126",
+    "Avg Bill Value":"54"
+  },
+  {
+    "Month":"Jul-24",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"148680",
+    "Number of Orders":"87",
+    "Avg Bill Value":"55"
+  },
+  {
+    "Month":"Aug-24",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"121240",
+    "Number of Orders":"90",
+    "Avg Bill Value":"43"
+  },
+  {
+    "Month":"Sep-24",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"133065",
+    "Number of Orders":"101",
+    "Avg Bill Value":"44"
+  },
+  {
+    "Month":"Oct-24",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"222955",
+    "Number of Orders":"161",
+    "Avg Bill Value":"45"
+  },
+  {
+    "Month":"Nov-24",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"227320",
+    "Number of Orders":"143",
+    "Avg Bill Value":"53"
+  },
+  {
+    "Month":"Dec-24",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"152550",
+    "Number of Orders":"96",
+    "Avg Bill Value":"51"
+  },
+  {
+    "Month":"Jan-25",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"189755",
+    "Number of Orders":"118",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"Feb-25",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"238140",
+    "Number of Orders":"149",
+    "Avg Bill Value":"53"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"332685",
+    "Number of Orders":"189",
+    "Avg Bill Value":"57"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"319960",
+    "Number of Orders":"181",
+    "Avg Bill Value":"59"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"275095",
+    "Number of Orders":"129",
+    "Avg Bill Value":"69"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"86695",
+    "Number of Orders":"45",
+    "Avg Bill Value":"65"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"83210",
+    "Number of Orders":"50",
+    "Avg Bill Value":"54"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"118015",
+    "Number of Orders":"73",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Pimpalgaon",
+    "Sale Value":"72640",
+    "Number of Orders":"46",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"Mar-24",
+    "Outlet":"College Road",
+    "Sale Value":"443110",
+    "Number of Orders":"181",
+    "Avg Bill Value":"79"
+  },
+  {
+    "Month":"Apr-24",
+    "Outlet":"College Road",
+    "Sale Value":"524645",
+    "Number of Orders":"226",
+    "Avg Bill Value":"77"
+  },
+  {
+    "Month":"May-24",
+    "Outlet":"College Road",
+    "Sale Value":"512620",
+    "Number of Orders":"206",
+    "Avg Bill Value":"80"
+  },
+  {
+    "Month":"Jun-24",
+    "Outlet":"College Road",
+    "Sale Value":"375290",
+    "Number of Orders":"151",
+    "Avg Bill Value":"83"
+  },
+  {
+    "Month":"Jul-24",
+    "Outlet":"College Road",
+    "Sale Value":"263095",
+    "Number of Orders":"112",
+    "Avg Bill Value":"76"
+  },
+  {
+    "Month":"Aug-24",
+    "Outlet":"College Road",
+    "Sale Value":"368365",
+    "Number of Orders":"161",
+    "Avg Bill Value":"74"
+  },
+  {
+    "Month":"Sep-24",
+    "Outlet":"College Road",
+    "Sale Value":"289775",
+    "Number of Orders":"133",
+    "Avg Bill Value":"73"
+  },
+  {
+    "Month":"Oct-24",
+    "Outlet":"College Road",
+    "Sale Value":"526390",
+    "Number of Orders":"230",
+    "Avg Bill Value":"74"
+  },
+  {
+    "Month":"Nov-24",
+    "Outlet":"College Road",
+    "Sale Value":"228265",
+    "Number of Orders":"102",
+    "Avg Bill Value":"74"
+  },
+  {
+    "Month":"Dec-24",
+    "Outlet":"College Road",
+    "Sale Value":"407975",
+    "Number of Orders":"173",
+    "Avg Bill Value":"76"
+  },
+  {
+    "Month":"Jan-25",
+    "Outlet":"College Road",
+    "Sale Value":"491920",
+    "Number of Orders":"214",
+    "Avg Bill Value":"74"
+  },
+  {
+    "Month":"Feb-25",
+    "Outlet":"College Road",
+    "Sale Value":"607540",
+    "Number of Orders":"263",
+    "Avg Bill Value":"77"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"College Road",
+    "Sale Value":"839930",
+    "Number of Orders":"374",
+    "Avg Bill Value":"72"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"College Road",
+    "Sale Value":"875675",
+    "Number of Orders":"400",
+    "Avg Bill Value":"73"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"College Road",
+    "Sale Value":"543025",
+    "Number of Orders":"244",
+    "Avg Bill Value":"72"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"College Road",
+    "Sale Value":"441220",
+    "Number of Orders":"193",
+    "Avg Bill Value":"76"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"College Road",
+    "Sale Value":"374930",
+    "Number of Orders":"183",
+    "Avg Bill Value":"66"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"College Road",
+    "Sale Value":"441090",
+    "Number of Orders":"183",
+    "Avg Bill Value":"78"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"College Road",
+    "Sale Value":"424230",
+    "Number of Orders":"189",
+    "Avg Bill Value":"72"
+  },
+  {
+    "Month":"May-24",
+    "Outlet":"Ozar",
+    "Sale Value":"481430",
+    "Number of Orders":"341",
+    "Avg Bill Value":"46"
+  },
+  {
+    "Month":"Jun-24",
+    "Outlet":"Ozar",
+    "Sale Value":"198885",
+    "Number of Orders":"136",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Jul-24",
+    "Outlet":"Ozar",
+    "Sale Value":"77285",
+    "Number of Orders":"58",
+    "Avg Bill Value":"43"
+  },
+  {
+    "Month":"Aug-24",
+    "Outlet":"Ozar",
+    "Sale Value":"78520",
+    "Number of Orders":"62",
+    "Avg Bill Value":"41"
+  },
+  {
+    "Month":"Sep-24",
+    "Outlet":"Ozar",
+    "Sale Value":"106725",
+    "Number of Orders":"88",
+    "Avg Bill Value":"40"
+  },
+  {
+    "Month":"Oct-24",
+    "Outlet":"Ozar",
+    "Sale Value":"107881",
+    "Number of Orders":"81",
+    "Avg Bill Value":"43"
+  },
+  {
+    "Month":"Nov-24",
+    "Outlet":"Ozar",
+    "Sale Value":"64729",
+    "Number of Orders":"48",
+    "Avg Bill Value":"45"
+  },
+  {
+    "Month":"Dec-24",
+    "Outlet":"Ozar",
+    "Sale Value":"107965",
+    "Number of Orders":"67",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"Jan-25",
+    "Outlet":"Ozar",
+    "Sale Value":"117675",
+    "Number of Orders":"73",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"Feb-25",
+    "Outlet":"Ozar",
+    "Sale Value":"200175",
+    "Number of Orders":"120",
+    "Avg Bill Value":"55"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Ozar",
+    "Sale Value":"274440",
+    "Number of Orders":"159",
+    "Avg Bill Value":"56"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Ozar",
+    "Sale Value":"351415",
+    "Number of Orders":"191",
+    "Avg Bill Value":"61"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Ozar",
+    "Sale Value":"244905",
+    "Number of Orders":"124",
+    "Avg Bill Value":"64"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Ozar",
+    "Sale Value":"200475",
+    "Number of Orders":"106",
+    "Avg Bill Value":"63"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Ozar",
+    "Sale Value":"113150",
+    "Number of Orders":"67",
+    "Avg Bill Value":"54"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Ozar",
+    "Sale Value":"144875",
+    "Number of Orders":"90",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Ozar",
+    "Sale Value":"112245",
+    "Number of Orders":"70",
+    "Avg Bill Value":"53"
+  },
+  {
+    "Month":"Sep-24",
+    "Outlet":"Nashik road",
+    "Sale Value":"489325",
+    "Number of Orders":"390",
+    "Avg Bill Value":"42"
+  },
+  {
+    "Month":"Oct-24",
+    "Outlet":"Nashik road",
+    "Sale Value":"633190",
+    "Number of Orders":"412",
+    "Avg Bill Value":"50"
+  },
+  {
+    "Month":"Nov-24",
+    "Outlet":"Nashik road",
+    "Sale Value":"337505",
+    "Number of Orders":"235",
+    "Avg Bill Value":"48"
+  },
+  {
+    "Month":"Dec-24",
+    "Outlet":"Nashik road",
+    "Sale Value":"234290",
+    "Number of Orders":"164",
+    "Avg Bill Value":"46"
+  },
+  {
+    "Month":"Jan-25",
+    "Outlet":"Nashik road",
+    "Sale Value":"245875",
+    "Number of Orders":"171",
+    "Avg Bill Value":"46"
+  },
+  {
+    "Month":"Feb-25",
+    "Outlet":"Nashik road",
+    "Sale Value":"323146",
+    "Number of Orders":"217",
+    "Avg Bill Value":"50"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Nashik road",
+    "Sale Value":"386715",
+    "Number of Orders":"259",
+    "Avg Bill Value":"48"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Nashik road",
+    "Sale Value":"375745",
+    "Number of Orders":"240",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Nashik road",
+    "Sale Value":"298040",
+    "Number of Orders":"177",
+    "Avg Bill Value":"54"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Nashik road",
+    "Sale Value":"237615",
+    "Number of Orders":"153",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Nashik road",
+    "Sale Value":"184705",
+    "Number of Orders":"121",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Nashik road",
+    "Sale Value":"221250",
+    "Number of Orders":"147",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Nashik road",
+    "Sale Value":"164690",
+    "Number of Orders":"111",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Oct-24",
+    "Outlet":"Parel",
+    "Sale Value":"297025",
+    "Number of Orders":"213",
+    "Avg Bill Value":"45"
+  },
+  {
+    "Month":"Nov-24",
+    "Outlet":"Parel",
+    "Sale Value":"262305",
+    "Number of Orders":"185",
+    "Avg Bill Value":"47"
+  },
+  {
+    "Month":"Dec-24",
+    "Outlet":"Parel",
+    "Sale Value":"202230",
+    "Number of Orders":"145",
+    "Avg Bill Value":"45"
+  },
+  {
+    "Month":"Jan-25",
+    "Outlet":"Parel",
+    "Sale Value":"207880",
+    "Number of Orders":"151",
+    "Avg Bill Value":"45"
+  },
+  {
+    "Month":"Feb-25",
+    "Outlet":"Parel",
+    "Sale Value":"202630",
+    "Number of Orders":"147",
+    "Avg Bill Value":"46"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Parel",
+    "Sale Value":"238455",
+    "Number of Orders":"163",
+    "Avg Bill Value":"47"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Parel",
+    "Sale Value":"311385",
+    "Number of Orders":"176",
+    "Avg Bill Value":"59"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Parel",
+    "Sale Value":"168300",
+    "Number of Orders":"112",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Parel",
+    "Sale Value":"138940",
+    "Number of Orders":"86",
+    "Avg Bill Value":"54"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Parel",
+    "Sale Value":"99960",
+    "Number of Orders":"58",
+    "Avg Bill Value":"56"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Parel",
+    "Sale Value":"75630",
+    "Number of Orders":"47",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Parel",
+    "Sale Value":"71824",
+    "Number of Orders":"48",
+    "Avg Bill Value":"50"
+  },
+  {
+    "Month":"Oct-24",
+    "Outlet":"Savarkar Nagar",
+    "Sale Value":"208585",
+    "Number of Orders":"146",
+    "Avg Bill Value":"46"
+  },
+  {
+    "Month":"Nov-24",
+    "Outlet":"Savarkar Nagar",
+    "Sale Value":"126595",
+    "Number of Orders":"90",
+    "Avg Bill Value":"47"
+  },
+  {
+    "Month":"Dec-24",
+    "Outlet":"Savarkar Nagar",
+    "Sale Value":"134165",
+    "Number of Orders":"95",
+    "Avg Bill Value":"46"
+  },
+  {
+    "Month":"Jan-25",
+    "Outlet":"Savarkar Nagar",
+    "Sale Value":"142580",
+    "Number of Orders":"100",
+    "Avg Bill Value":"46"
+  },
+  {
+    "Month":"Feb-25",
+    "Outlet":"Savarkar Nagar",
+    "Sale Value":"226020",
+    "Number of Orders":"155",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Savarkar Nagar",
+    "Sale Value":"309165",
+    "Number of Orders":"202",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Savarkar Nagar",
+    "Sale Value":"304935",
+    "Number of Orders":"191",
+    "Avg Bill Value":"53"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Savarkar Nagar",
+    "Sale Value":"227900",
+    "Number of Orders":"140",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Savarkar Nagar",
+    "Sale Value":"208370",
+    "Number of Orders":"138",
+    "Avg Bill Value":"50"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Savarkar Nagar",
+    "Sale Value":"177465",
+    "Number of Orders":"121",
+    "Avg Bill Value":"47"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Savarkar Nagar",
+    "Sale Value":"231450",
+    "Number of Orders":"150",
+    "Avg Bill Value":"50"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Savarkar Nagar",
+    "Sale Value":"178305",
+    "Number of Orders":"126",
+    "Avg Bill Value":"47"
+  },
+  {
+    "Month":"Nov-24",
+    "Outlet":"Dindori",
+    "Sale Value":"256475",
+    "Number of Orders":"175",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Dec-24",
+    "Outlet":"Dindori",
+    "Sale Value":"398787",
+    "Number of Orders":"268",
+    "Avg Bill Value":"48"
+  },
+  {
+    "Month":"Jan-25",
+    "Outlet":"Dindori",
+    "Sale Value":"389766",
+    "Number of Orders":"253",
+    "Avg Bill Value":"50"
+  },
+  {
+    "Month":"Feb-25",
+    "Outlet":"Dindori",
+    "Sale Value":"447430",
+    "Number of Orders":"280",
+    "Avg Bill Value":"53"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Dindori",
+    "Sale Value":"462619",
+    "Number of Orders":"296",
+    "Avg Bill Value":"50"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Dindori",
+    "Sale Value":"459525",
+    "Number of Orders":"285",
+    "Avg Bill Value":"54"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Dindori",
+    "Sale Value":"290415",
+    "Number of Orders":"186",
+    "Avg Bill Value":"50"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Dindori",
+    "Sale Value":"202130",
+    "Number of Orders":"117",
+    "Avg Bill Value":"57"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Dindori",
+    "Sale Value":"125935",
+    "Number of Orders":"75",
+    "Avg Bill Value":"54"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Dindori",
+    "Sale Value":"124315",
+    "Number of Orders":"78",
+    "Avg Bill Value":"51"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Dindori",
+    "Sale Value":"123860",
+    "Number of Orders":"85",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Dec-24",
+    "Outlet":"Main road",
+    "Sale Value":"175385",
+    "Number of Orders":"132",
+    "Avg Bill Value":"43"
+  },
+  {
+    "Month":"Jan-25",
+    "Outlet":"Main road",
+    "Sale Value":"165835",
+    "Number of Orders":"127",
+    "Avg Bill Value":"42"
+  },
+  {
+    "Month":"Feb-25",
+    "Outlet":"Main road",
+    "Sale Value":"164790",
+    "Number of Orders":"123",
+    "Avg Bill Value":"45"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Main road",
+    "Sale Value":"183465",
+    "Number of Orders":"136",
+    "Avg Bill Value":"44"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Main road",
+    "Sale Value":"229680",
+    "Number of Orders":"168",
+    "Avg Bill Value":"46"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Main road",
+    "Sale Value":"168095",
+    "Number of Orders":"127",
+    "Avg Bill Value":"43"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Main road",
+    "Sale Value":"146015",
+    "Number of Orders":"111",
+    "Avg Bill Value":"44"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Main road",
+    "Sale Value":"123250",
+    "Number of Orders":"91",
+    "Avg Bill Value":"44"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Main road",
+    "Sale Value":"198170",
+    "Number of Orders":"143",
+    "Avg Bill Value":"45"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Main road",
+    "Sale Value":"105380",
+    "Number of Orders":"79",
+    "Avg Bill Value":"45"
+  },
+  {
+    "Month":"Dec-24",
+    "Outlet":"Usmanpura",
+    "Sale Value":"147075",
+    "Number of Orders":"103",
+    "Avg Bill Value":"46"
+  },
+  {
+    "Month":"Jan-25",
+    "Outlet":"Usmanpura",
+    "Sale Value":"131655",
+    "Number of Orders":"97",
+    "Avg Bill Value":"44"
+  },
+  {
+    "Month":"Feb-25",
+    "Outlet":"Usmanpura",
+    "Sale Value":"108705",
+    "Number of Orders":"79",
+    "Avg Bill Value":"46"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Usmanpura",
+    "Sale Value":"158040",
+    "Number of Orders":"111",
+    "Avg Bill Value":"46"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Usmanpura",
+    "Sale Value":"167055",
+    "Number of Orders":"122",
+    "Avg Bill Value":"46"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Usmanpura",
+    "Sale Value":"105865",
+    "Number of Orders":"75",
+    "Avg Bill Value":"46"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Usmanpura",
+    "Sale Value":"89470",
+    "Number of Orders":"62",
+    "Avg Bill Value":"48"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Usmanpura",
+    "Sale Value":"82030",
+    "Number of Orders":"53",
+    "Avg Bill Value":"50"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Usmanpura",
+    "Sale Value":"84020",
+    "Number of Orders":"53",
+    "Avg Bill Value":"51"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Usmanpura",
+    "Sale Value":"76670",
+    "Number of Orders":"48",
+    "Avg Bill Value":"53"
+  },
+  {
+    "Month":"Dec-24",
+    "Outlet":"Zilla Parishad",
+    "Sale Value":"391150",
+    "Number of Orders":"280",
+    "Avg Bill Value":"45"
+  },
+  {
+    "Month":"Jan-25",
+    "Outlet":"Zilla Parishad",
+    "Sale Value":"497030",
+    "Number of Orders":"356",
+    "Avg Bill Value":"45"
+  },
+  {
+    "Month":"Feb-25",
+    "Outlet":"Zilla Parishad",
+    "Sale Value":"541180",
+    "Number of Orders":"385",
+    "Avg Bill Value":"47"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Zilla Parishad",
+    "Sale Value":"852310",
+    "Number of Orders":"606",
+    "Avg Bill Value":"45"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Zilla Parishad",
+    "Sale Value":"745870",
+    "Number of Orders":"507",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Zilla Parishad",
+    "Sale Value":"512280",
+    "Number of Orders":"346",
+    "Avg Bill Value":"48"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Zilla Parishad",
+    "Sale Value":"432970",
+    "Number of Orders":"302",
+    "Avg Bill Value":"48"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Zilla Parishad",
+    "Sale Value":"346210",
+    "Number of Orders":"241",
+    "Avg Bill Value":"46"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Zilla Parishad",
+    "Sale Value":"370670",
+    "Number of Orders":"250",
+    "Avg Bill Value":"48"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Zilla Parishad",
+    "Sale Value":"345340",
+    "Number of Orders":"245",
+    "Avg Bill Value":"47"
+  },
+  {
+    "Month":"Jan-25",
+    "Outlet":"Ausa Road",
+    "Sale Value":"538425",
+    "Number of Orders":"342",
+    "Avg Bill Value":"51"
+  },
+  {
+    "Month":"Feb-25",
+    "Outlet":"Ausa Road",
+    "Sale Value":"582030",
+    "Number of Orders":"356",
+    "Avg Bill Value":"55"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Ausa Road",
+    "Sale Value":"658475",
+    "Number of Orders":"395",
+    "Avg Bill Value":"54"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Ausa Road",
+    "Sale Value":"696915",
+    "Number of Orders":"446",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Ausa Road",
+    "Sale Value":"402599",
+    "Number of Orders":"242",
+    "Avg Bill Value":"54"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Ausa Road",
+    "Sale Value":"374874",
+    "Number of Orders":"219",
+    "Avg Bill Value":"57"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Ausa Road",
+    "Sale Value":"327367",
+    "Number of Orders":"167",
+    "Avg Bill Value":"63"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Ausa Road",
+    "Sale Value":"301881",
+    "Number of Orders":"149",
+    "Avg Bill Value":"65"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Ausa Road",
+    "Sale Value":"245406",
+    "Number of Orders":"128",
+    "Avg Bill Value":"64"
+  },
+  {
+    "Month":"Jan-25",
+    "Outlet":"Trimurti Chowk",
+    "Sale Value":"131140",
+    "Number of Orders":"85",
+    "Avg Bill Value":"50"
+  },
+  {
+    "Month":"Feb-25",
+    "Outlet":"Trimurti Chowk",
+    "Sale Value":"270525",
+    "Number of Orders":"185",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Trimurti Chowk",
+    "Sale Value":"305230",
+    "Number of Orders":"200",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Trimurti Chowk",
+    "Sale Value":"366075",
+    "Number of Orders":"215",
+    "Avg Bill Value":"57"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Trimurti Chowk",
+    "Sale Value":"227590",
+    "Number of Orders":"131",
+    "Avg Bill Value":"56"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Trimurti Chowk",
+    "Sale Value":"193380",
+    "Number of Orders":"113",
+    "Avg Bill Value":"57"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Trimurti Chowk",
+    "Sale Value":"129200",
+    "Number of Orders":"80",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Trimurti Chowk",
+    "Sale Value":"169600",
+    "Number of Orders":"103",
+    "Avg Bill Value":"53"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Trimurti Chowk",
+    "Sale Value":"183770",
+    "Number of Orders":"118",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"Feb-25",
+    "Outlet":"Sinhgad Road",
+    "Sale Value":"148730",
+    "Number of Orders":"98",
+    "Avg Bill Value":"51"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Sinhgad Road",
+    "Sale Value":"275230",
+    "Number of Orders":"174",
+    "Avg Bill Value":"51"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Sinhgad Road",
+    "Sale Value":"351645",
+    "Number of Orders":"241",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Sinhgad Road",
+    "Sale Value":"252645",
+    "Number of Orders":"171",
+    "Avg Bill Value":"48"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Sinhgad Road",
+    "Sale Value":"182480",
+    "Number of Orders":"111",
+    "Avg Bill Value":"55"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Sinhgad Road",
+    "Sale Value":"153698",
+    "Number of Orders":"92",
+    "Avg Bill Value":"54"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Sinhgad Road",
+    "Sale Value":"149263",
+    "Number of Orders":"87",
+    "Avg Bill Value":"55"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Sinhgad Road",
+    "Sale Value":"159948",
+    "Number of Orders":"95",
+    "Avg Bill Value":"56"
+  },
+  {
+    "Month":"Feb-25",
+    "Outlet":"Vasai West",
+    "Sale Value":"222265",
+    "Number of Orders":"150",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Vasai West",
+    "Sale Value":"247215",
+    "Number of Orders":"166",
+    "Avg Bill Value":"48"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Vasai West",
+    "Sale Value":"268110",
+    "Number of Orders":"175",
+    "Avg Bill Value":"51"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Vasai West",
+    "Sale Value":"177880",
+    "Number of Orders":"118",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Vasai West",
+    "Sale Value":"143990",
+    "Number of Orders":"98",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Vasai West",
+    "Sale Value":"118936",
+    "Number of Orders":"74",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Vasai West",
+    "Sale Value":"64314",
+    "Number of Orders":"40",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Vasai West",
+    "Sale Value":"90495",
+    "Number of Orders":"57",
+    "Avg Bill Value":"53"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Niphad",
+    "Sale Value":"388925",
+    "Number of Orders":"248",
+    "Avg Bill Value":"51"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Niphad",
+    "Sale Value":"353865",
+    "Number of Orders":"222",
+    "Avg Bill Value":"53"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Niphad",
+    "Sale Value":"296330",
+    "Number of Orders":"164",
+    "Avg Bill Value":"58"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Niphad",
+    "Sale Value":"203550",
+    "Number of Orders":"113",
+    "Avg Bill Value":"60"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Niphad",
+    "Sale Value":"109470",
+    "Number of Orders":"64",
+    "Avg Bill Value":"55"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Niphad",
+    "Sale Value":"84990",
+    "Number of Orders":"56",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Niphad",
+    "Sale Value":"34295",
+    "Number of Orders":"24",
+    "Avg Bill Value":"47"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"SMBT",
+    "Sale Value":"366290",
+    "Number of Orders":"243",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"SMBT",
+    "Sale Value":"428650",
+    "Number of Orders":"279",
+    "Avg Bill Value":"51"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"SMBT",
+    "Sale Value":"202710",
+    "Number of Orders":"124",
+    "Avg Bill Value":"53"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"SMBT",
+    "Sale Value":"139165",
+    "Number of Orders":"78",
+    "Avg Bill Value":"59"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"SMBT",
+    "Sale Value":"98980",
+    "Number of Orders":"63",
+    "Avg Bill Value":"51"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"SMBT",
+    "Sale Value":"86555",
+    "Number of Orders":"57",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"SMBT",
+    "Sale Value":"103210",
+    "Number of Orders":"71",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Tapovan",
+    "Sale Value":"116235",
+    "Number of Orders":"81",
+    "Avg Bill Value":"46"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Tapovan",
+    "Sale Value":"225455",
+    "Number of Orders":"156",
+    "Avg Bill Value":"48"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Tapovan",
+    "Sale Value":"202225",
+    "Number of Orders":"141",
+    "Avg Bill Value":"46"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Tapovan",
+    "Sale Value":"150290",
+    "Number of Orders":"105",
+    "Avg Bill Value":"48"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Tapovan",
+    "Sale Value":"107075",
+    "Number of Orders":"70",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Tapovan",
+    "Sale Value":"119335",
+    "Number of Orders":"79",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Tapovan",
+    "Sale Value":"76140",
+    "Number of Orders":"51",
+    "Avg Bill Value":"50"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Virar East",
+    "Sale Value":"262910",
+    "Number of Orders":"180",
+    "Avg Bill Value":"47"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Virar East",
+    "Sale Value":"282335",
+    "Number of Orders":"187",
+    "Avg Bill Value":"50"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Virar East",
+    "Sale Value":"180440",
+    "Number of Orders":"123",
+    "Avg Bill Value":"47"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Virar East",
+    "Sale Value":"152975",
+    "Number of Orders":"104",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Virar East",
+    "Sale Value":"113118",
+    "Number of Orders":"64",
+    "Avg Bill Value":"57"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Virar East",
+    "Sale Value":"59937",
+    "Number of Orders":"35",
+    "Avg Bill Value":"56"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Virar East",
+    "Sale Value":"Closed",
+    "Number of Orders":"Closed",
+    "Avg Bill Value":"Closed"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"TV Center",
+    "Sale Value":"123015",
+    "Number of Orders":"111",
+    "Avg Bill Value":"36"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"TV Center",
+    "Sale Value":"227955",
+    "Number of Orders":"142",
+    "Avg Bill Value":"54"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"TV Center",
+    "Sale Value":"Closed",
+    "Number of Orders":"Closed",
+    "Avg Bill Value":"Closed"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"TV Center",
+    "Sale Value":"Closed",
+    "Number of Orders":"Closed",
+    "Avg Bill Value":"Closed"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"TV Center",
+    "Sale Value":"Closed",
+    "Number of Orders":"Closed",
+    "Avg Bill Value":"Closed"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"TV Center",
+    "Sale Value":"Closed",
+    "Number of Orders":"Closed",
+    "Avg Bill Value":"Closed"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"TV Center",
+    "Sale Value":"Closed",
+    "Number of Orders":"Closed",
+    "Avg Bill Value":"Closed"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Saki Vihar",
+    "Sale Value":"239605",
+    "Number of Orders":"139",
+    "Avg Bill Value":"55"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Saki Vihar",
+    "Sale Value":"309960",
+    "Number of Orders":"159",
+    "Avg Bill Value":"65"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Saki Vihar",
+    "Sale Value":"281089",
+    "Number of Orders":"154",
+    "Avg Bill Value":"59"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Saki Vihar",
+    "Sale Value":"218751",
+    "Number of Orders":"120",
+    "Avg Bill Value":"61"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Saki Vihar",
+    "Sale Value":"227366",
+    "Number of Orders":"115",
+    "Avg Bill Value":"64"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Saki Vihar",
+    "Sale Value":"203017",
+    "Number of Orders":"107",
+    "Avg Bill Value":"61"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Saki Vihar",
+    "Sale Value":"236150",
+    "Number of Orders":"132",
+    "Avg Bill Value":"60"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Bhawani Chowk",
+    "Sale Value":"159665",
+    "Number of Orders":"144",
+    "Avg Bill Value":"36"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Bhawani Chowk",
+    "Sale Value":"293145",
+    "Number of Orders":"173",
+    "Avg Bill Value":"56"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Bhawani Chowk",
+    "Sale Value":"165040",
+    "Number of Orders":"105",
+    "Avg Bill Value":"51"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Bhawani Chowk",
+    "Sale Value":"170259",
+    "Number of Orders":"101",
+    "Avg Bill Value":"56"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Bhawani Chowk",
+    "Sale Value":"129705",
+    "Number of Orders":"80",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Bhawani Chowk",
+    "Sale Value":"111886",
+    "Number of Orders":"63",
+    "Avg Bill Value":"57"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Bhawani Chowk",
+    "Sale Value":"176330",
+    "Number of Orders":"105",
+    "Avg Bill Value":"56"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Chalisgaon",
+    "Sale Value":"457110",
+    "Number of Orders":"284",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Chalisgaon",
+    "Sale Value":"345445",
+    "Number of Orders":"220",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Chalisgaon",
+    "Sale Value":"231700",
+    "Number of Orders":"137",
+    "Avg Bill Value":"55"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Chalisgaon",
+    "Sale Value":"147860",
+    "Number of Orders":"98",
+    "Avg Bill Value":"50"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Chalisgaon",
+    "Sale Value":"107065",
+    "Number of Orders":"72",
+    "Avg Bill Value":"48"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Chalisgaon",
+    "Sale Value":"96895",
+    "Number of Orders":"64",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Chalisgaon",
+    "Sale Value":"82720",
+    "Number of Orders":"60",
+    "Avg Bill Value":"46"
+  },
+  {
+    "Month":"Mar-25",
+    "Outlet":"Ganjgolai",
+    "Sale Value":"513645",
+    "Number of Orders":"323",
+    "Avg Bill Value":"51"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Ganjgolai",
+    "Sale Value":"612440",
+    "Number of Orders":"396",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Ganjgolai",
+    "Sale Value":"396100",
+    "Number of Orders":"242",
+    "Avg Bill Value":"53"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Ganjgolai",
+    "Sale Value":"296515",
+    "Number of Orders":"166",
+    "Avg Bill Value":"60"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Ganjgolai",
+    "Sale Value":"246648",
+    "Number of Orders":"122",
+    "Avg Bill Value":"65"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Ganjgolai",
+    "Sale Value":"282733",
+    "Number of Orders":"142",
+    "Avg Bill Value":"64"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Ganjgolai",
+    "Sale Value":"185764",
+    "Number of Orders":"97",
+    "Avg Bill Value":"64"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Aundh",
+    "Sale Value":"78900",
+    "Number of Orders":"51",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Aundh",
+    "Sale Value":"45875",
+    "Number of Orders":"30",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Aundh",
+    "Sale Value":"38313",
+    "Number of Orders":"21",
+    "Avg Bill Value":"61"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Aundh",
+    "Sale Value":"42039",
+    "Number of Orders":"22",
+    "Avg Bill Value":"62"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Aundh",
+    "Sale Value":"40865",
+    "Number of Orders":"21",
+    "Avg Bill Value":"64"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Aundh",
+    "Sale Value":"33300",
+    "Number of Orders":"15",
+    "Avg Bill Value":"75"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Bhosari",
+    "Sale Value":"184770",
+    "Number of Orders":"113",
+    "Avg Bill Value":"54"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Bhosari",
+    "Sale Value":"122595",
+    "Number of Orders":"76",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Bhosari",
+    "Sale Value":"93830",
+    "Number of Orders":"61",
+    "Avg Bill Value":"51"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Bhosari",
+    "Sale Value":"82050",
+    "Number of Orders":"53",
+    "Avg Bill Value":"50"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Bhosari",
+    "Sale Value":"93557",
+    "Number of Orders":"52",
+    "Avg Bill Value":"58"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Bhosari",
+    "Sale Value":"51689",
+    "Number of Orders":"30",
+    "Avg Bill Value":"57"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Dombivali",
+    "Sale Value":"104295",
+    "Number of Orders":"118",
+    "Avg Bill Value":"29"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Dombivali",
+    "Sale Value":"128570",
+    "Number of Orders":"80",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Dombivali",
+    "Sale Value":"93795",
+    "Number of Orders":"58",
+    "Avg Bill Value":"54"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Dombivali",
+    "Sale Value":"89672",
+    "Number of Orders":"46",
+    "Avg Bill Value":"63"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Dombivali",
+    "Sale Value":"102145",
+    "Number of Orders":"49",
+    "Avg Bill Value":"68"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Dombivali",
+    "Sale Value":"87661",
+    "Number of Orders":"45",
+    "Avg Bill Value":"64"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Hinjawadi phase1",
+    "Sale Value":"182870",
+    "Number of Orders":"118",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Hinjawadi phase1",
+    "Sale Value":"148685",
+    "Number of Orders":"96",
+    "Avg Bill Value":"50"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Hinjawadi phase1",
+    "Sale Value":"149045",
+    "Number of Orders":"103",
+    "Avg Bill Value":"48"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Hinjawadi phase1",
+    "Sale Value":"140344",
+    "Number of Orders":"92",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Hinjawadi phase1",
+    "Sale Value":"166459",
+    "Number of Orders":"95",
+    "Avg Bill Value":"57"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Hinjawadi phase1",
+    "Sale Value":"129840",
+    "Number of Orders":"77",
+    "Avg Bill Value":"56"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Jalna",
+    "Sale Value":"162870",
+    "Number of Orders":"235",
+    "Avg Bill Value":"23"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Jalna",
+    "Sale Value":"254625",
+    "Number of Orders":"158",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Jalna",
+    "Sale Value":"211767",
+    "Number of Orders":"129",
+    "Avg Bill Value":"55"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Jalna",
+    "Sale Value":"149037",
+    "Number of Orders":"79",
+    "Avg Bill Value":"61"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Jalna",
+    "Sale Value":"152263",
+    "Number of Orders":"81",
+    "Avg Bill Value":"61"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Jalna",
+    "Sale Value":"116537",
+    "Number of Orders":"62",
+    "Avg Bill Value":"63"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Kabra Nagar",
+    "Sale Value":"478145",
+    "Number of Orders":"264",
+    "Avg Bill Value":"60"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Kabra Nagar",
+    "Sale Value":"266530",
+    "Number of Orders":"149",
+    "Avg Bill Value":"58"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Kabra Nagar",
+    "Sale Value":"239990",
+    "Number of Orders":"129",
+    "Avg Bill Value":"62"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Kabra Nagar",
+    "Sale Value":"181740",
+    "Number of Orders":"98",
+    "Avg Bill Value":"60"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Kabra Nagar",
+    "Sale Value":"178305",
+    "Number of Orders":"94",
+    "Avg Bill Value":"61"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Kabra Nagar",
+    "Sale Value":"134273",
+    "Number of Orders":"72",
+    "Avg Bill Value":"62"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Kagal",
+    "Sale Value":"190735",
+    "Number of Orders":"117",
+    "Avg Bill Value":"54"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Kagal",
+    "Sale Value":"183495",
+    "Number of Orders":"112",
+    "Avg Bill Value":"53"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Kagal",
+    "Sale Value":"63290",
+    "Number of Orders":"37",
+    "Avg Bill Value":"57"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Kagal",
+    "Sale Value":"57515",
+    "Number of Orders":"32",
+    "Avg Bill Value":"58"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Kagal",
+    "Sale Value":"44590",
+    "Number of Orders":"25",
+    "Avg Bill Value":"58"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Kagal",
+    "Sale Value":"47317",
+    "Number of Orders":"26",
+    "Avg Bill Value":"60"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Karve Nagar",
+    "Sale Value":"155410",
+    "Number of Orders":"103",
+    "Avg Bill Value":"50"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Karve Nagar",
+    "Sale Value":"130655",
+    "Number of Orders":"86",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Karve Nagar",
+    "Sale Value":"87575",
+    "Number of Orders":"60",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Karve Nagar",
+    "Sale Value":"71517",
+    "Number of Orders":"42",
+    "Avg Bill Value":"54"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Karve Nagar",
+    "Sale Value":"68319",
+    "Number of Orders":"37",
+    "Avg Bill Value":"60"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Karve Nagar",
+    "Sale Value":"68494",
+    "Number of Orders":"39",
+    "Avg Bill Value":"59"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Vita",
+    "Sale Value":"666150",
+    "Number of Orders":"419",
+    "Avg Bill Value":"53"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Vita",
+    "Sale Value":"307625",
+    "Number of Orders":"196",
+    "Avg Bill Value":"51"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Vita",
+    "Sale Value":"222061",
+    "Number of Orders":"140",
+    "Avg Bill Value":"53"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Vita",
+    "Sale Value":"174498",
+    "Number of Orders":"98",
+    "Avg Bill Value":"58"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Vita",
+    "Sale Value":"163664",
+    "Number of Orders":"91",
+    "Avg Bill Value":"58"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Vita",
+    "Sale Value":"127103",
+    "Number of Orders":"69",
+    "Avg Bill Value":"62"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Malad",
+    "Sale Value":"158050",
+    "Number of Orders":"94",
+    "Avg Bill Value":"56"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Malad",
+    "Sale Value":"124565",
+    "Number of Orders":"67",
+    "Avg Bill Value":"60"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Malad",
+    "Sale Value":"119443",
+    "Number of Orders":"64",
+    "Avg Bill Value":"63"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Malad",
+    "Sale Value":"125745",
+    "Number of Orders":"52",
+    "Avg Bill Value":"78"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Malad",
+    "Sale Value":"88816",
+    "Number of Orders":"37",
+    "Avg Bill Value":"78"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Malad",
+    "Sale Value":"75762",
+    "Number of Orders":"33",
+    "Avg Bill Value":"77"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Narayanpeth",
+    "Sale Value":"274670",
+    "Number of Orders":"175",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Narayanpeth",
+    "Sale Value":"93145",
+    "Number of Orders":"64",
+    "Avg Bill Value":"47"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Narayanpeth",
+    "Sale Value":"45910",
+    "Number of Orders":"32",
+    "Avg Bill Value":"48"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Narayanpeth",
+    "Sale Value":"95075",
+    "Number of Orders":"60",
+    "Avg Bill Value":"51"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Narayanpeth",
+    "Sale Value":"128495",
+    "Number of Orders":"75",
+    "Avg Bill Value":"55"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Narayanpeth",
+    "Sale Value":"150399",
+    "Number of Orders":"77",
+    "Avg Bill Value":"65"
+  },
+  {
+    "Month":"Apr-25",
+    "Outlet":"Sahkar Nagar",
+    "Sale Value":"165245",
+    "Number of Orders":"111",
+    "Avg Bill Value":"50"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Sahkar Nagar",
+    "Sale Value":"63375",
+    "Number of Orders":"42",
+    "Avg Bill Value":"49"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Sahkar Nagar",
+    "Sale Value":"Closed",
+    "Number of Orders":"Closed",
+    "Avg Bill Value":"Closed"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Sahkar Nagar",
+    "Sale Value":"Closed",
+    "Number of Orders":"Closed",
+    "Avg Bill Value":"Closed"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Sahkar Nagar",
+    "Sale Value":"Closed",
+    "Number of Orders":"Closed",
+    "Avg Bill Value":"Closed"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Sahkar Nagar",
+    "Sale Value":"Closed",
+    "Number of Orders":"Closed",
+    "Avg Bill Value":"Closed"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Kondhwa",
+    "Sale Value":"114625",
+    "Number of Orders":"72",
+    "Avg Bill Value":"51"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Kondhwa",
+    "Sale Value":"97075",
+    "Number of Orders":"63",
+    "Avg Bill Value":"52"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Kondhwa",
+    "Sale Value":"100946",
+    "Number of Orders":"59",
+    "Avg Bill Value":"55"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Kondhwa",
+    "Sale Value":"83623",
+    "Number of Orders":"44",
+    "Avg Bill Value":"62"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Kondhwa",
+    "Sale Value":"92065",
+    "Number of Orders":"49",
+    "Avg Bill Value":"63"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Wagholi",
+    "Sale Value":"168818",
+    "Number of Orders":"97",
+    "Avg Bill Value":"56"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Wagholi",
+    "Sale Value":"118040",
+    "Number of Orders":"67",
+    "Avg Bill Value":"59"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Wagholi",
+    "Sale Value":"94849",
+    "Number of Orders":"55",
+    "Avg Bill Value":"55"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Wagholi",
+    "Sale Value":"96733",
+    "Number of Orders":"53",
+    "Avg Bill Value":"58"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Wagholi",
+    "Sale Value":"88774",
+    "Number of Orders":"50",
+    "Avg Bill Value":"60"
+  },
+  {
+    "Month":"May-25",
+    "Outlet":"Shri Nagar",
+    "Sale Value":"129935",
+    "Number of Orders":"74",
+    "Avg Bill Value":"57"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Shri Nagar",
+    "Sale Value":"126675",
+    "Number of Orders":"78",
+    "Avg Bill Value":"54"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Shri Nagar",
+    "Sale Value":"108875",
+    "Number of Orders":"62",
+    "Avg Bill Value":"56"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Shri Nagar",
+    "Sale Value":"103875",
+    "Number of Orders":"58",
+    "Avg Bill Value":"58"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Shri Nagar",
+    "Sale Value":"71093",
+    "Number of Orders":"41",
+    "Avg Bill Value":"58"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Sattelite",
+    "Sale Value":"61629",
+    "Number of Orders":"30",
+    "Avg Bill Value":"69"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Sattelite",
+    "Sale Value":"160866",
+    "Number of Orders":"73",
+    "Avg Bill Value":"71"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Sattelite",
+    "Sale Value":"162382",
+    "Number of Orders":"72",
+    "Avg Bill Value":"73"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Sattelite",
+    "Sale Value":"161933",
+    "Number of Orders":"67",
+    "Avg Bill Value":"81"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Rajarampuri",
+    "Sale Value":"516516",
+    "Number of Orders":"255",
+    "Avg Bill Value":"68"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Rajarampuri",
+    "Sale Value":"386018",
+    "Number of Orders":"197",
+    "Avg Bill Value":"63"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Rajarampuri",
+    "Sale Value":"328184",
+    "Number of Orders":"171",
+    "Avg Bill Value":"62"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Rajarampuri",
+    "Sale Value":"331691",
+    "Number of Orders":"179",
+    "Avg Bill Value":"62"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"College Corner",
+    "Sale Value":"233068",
+    "Number of Orders":"268",
+    "Avg Bill Value":"29"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"College Corner",
+    "Sale Value":"299031",
+    "Number of Orders":"166",
+    "Avg Bill Value":"58"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"College Corner",
+    "Sale Value":"187375",
+    "Number of Orders":"99",
+    "Avg Bill Value":"61"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"College Corner",
+    "Sale Value":"180572",
+    "Number of Orders":"100",
+    "Avg Bill Value":"60"
+  },
+  {
+    "Month":"Jun-25",
+    "Outlet":"Dhule",
+    "Sale Value":"200360",
+    "Number of Orders":"147",
+    "Avg Bill Value":"45"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Dhule",
+    "Sale Value":"293950",
+    "Number of Orders":"168",
+    "Avg Bill Value":"56"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Dhule",
+    "Sale Value":"259435",
+    "Number of Orders":"145",
+    "Avg Bill Value":"58"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Dhule",
+    "Sale Value":"207020",
+    "Number of Orders":"122",
+    "Avg Bill Value":"57"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Tasgaon",
+    "Sale Value":"173749",
+    "Number of Orders":"89",
+    "Avg Bill Value":"63"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Tasgaon",
+    "Sale Value":"176630",
+    "Number of Orders":"91",
+    "Avg Bill Value":"62"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Tasgaon",
+    "Sale Value":"130141",
+    "Number of Orders":"69",
+    "Avg Bill Value":"63"
+  },
+  {
+    "Month":"Jul-25",
+    "Outlet":"Akurdi",
+    "Sale Value":"36864",
+    "Number of Orders":"33",
+    "Avg Bill Value":"36"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Akurdi",
+    "Sale Value":"117090",
+    "Number of Orders":"57",
+    "Avg Bill Value":"67"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Akurdi",
+    "Sale Value":"117664",
+    "Number of Orders":"62",
+    "Avg Bill Value":"64"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Paud road",
+    "Sale Value":"63308",
+    "Number of Orders":"34",
+    "Avg Bill Value":"60"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Paud road",
+    "Sale Value":"86796",
+    "Number of Orders":"45",
+    "Avg Bill Value":"65"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Sharanpur Road",
+    "Sale Value":"62445",
+    "Number of Orders":"86",
+    "Avg Bill Value":"23"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Sharanpur Road",
+    "Sale Value":"124150",
+    "Number of Orders":"87",
+    "Avg Bill Value":"48"
+  },
+  {
+    "Month":"Aug-25",
+    "Outlet":"Vapi",
+    "Sale Value":"66206",
+    "Number of Orders":"64",
+    "Avg Bill Value":"33"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Vapi",
+    "Sale Value":"122011",
+    "Number of Orders":"56",
+    "Avg Bill Value":"72"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Vishrambaug",
+    "Sale Value":"138730",
+    "Number of Orders":"78",
+    "Avg Bill Value":"59"
+  },
+  {
+    "Month":"Sep-25",
+    "Outlet":"Malkapur",
+    "Sale Value":"164759",
+    "Number of Orders":"88",
+    "Avg Bill Value":"63"
+  }
+]

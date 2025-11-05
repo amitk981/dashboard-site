@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Outlet Performance Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      background: #f8f9fa;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 10px;
+    }
+    h3 {
+      text-align: center;
+      color: #555;
+      margin-bottom: 30px;
+    }
+    .dashboard {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 30px;
+    }
+    select {
+      padding: 8px 12px;
+      font-size: 16px;
+      border-radius: 6px;
+    }
+    .summary {
+      display: flex;
+      gap: 20px;
+      justify-content: center;
+      margin-top: 10px;
+      flex-wrap: wrap;
+    }
+    .summary div {
+      background: white;
+      border-radius: 10px;
+      padding: 15px 25px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      text-align: center;
+      min-width: 180px;
+    }
+    .chart-container {
+      background: white;
+      border-radius: 10px;
+      padding: 20px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      width: 900px;
+    }
+    .chart-title {
+      text-align: center;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Outlet Sales Performance Dashboard</h1>
+
+  <div class="dashboard">
+    <select id="outletSelect">
+      <option value="">Select an Outlet</option>
+    </select>
+
+    <div class="summary">
+      <div><strong>Total Sales Value</strong><br><span id="totalSales">-</span></div>
+      <div><strong>Total Orders</strong><br><span id="totalOrders">-</span></div>
+      <div><strong>Average Bill Value (for selected outlet)</strong><br><span id="avgBill">-</span></div>
+    </div>
+
+    <div class="chart-container">
+      <div class="chart-title">Monthly Sale Value (₹)</div>
+      <canvas id="salesChart" height="350"></canvas>
+    </div>
+
+    <div class="chart-container">
+      <div class="chart-title">Monthly Number of Orders</div>
+      <canvas id="ordersChart" height="350"></canvas>
+    </div>
+
+    <div class="chart-container">
+      <div class="chart-title">Monthly Average Bill Value (₹)</div>
+      <canvas id="avgChart" height="350"></canvas>
+    </div>
+  </div>
+
+  <script>
+    let data = [];
+    const createChart = (ctx, label, color, yLabel) => new Chart(ctx, {
+      type: 'bar',
+      data: { labels: [], datasets: [{ label, data: [], backgroundColor: color }] },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: { display: false },
+          title: {
+            display: false
+          }
+        },
+        scales: {
+          x: { title: { display: true, text: 'Month' } },
+          y: { title: { display: true, text: yLabel } }
+        }
+      }
+    });
+
+    const salesChart = createChart(document.getElementById('salesChart'), 'Sale Value', '#007bff', 'Sales (₹)');
+    const ordersChart = createChart(document.getElementById('ordersChart'), 'Number of Orders', '#28a745', 'Orders Count');
+    const avgChart = createChart(document.getElementById('avgChart'), 'Average Bill Value', '#ffc107', 'Bill Value (₹)');
+
+    async function loadData() {
+      const response = await fetch('TJF_Outlet_Monthwise_Data.json');
+      data = await response.json();
+
+      const outlets = [...new Set(data.map(d => d.Outlet))].sort();
+      const select = document.getElementById('outletSelect');
+      outlets.forEach(outlet => {
+        const option = document.createElement('option');
+        option.value = outlet;
+        option.textContent = outlet;
+        select.appendChild(option);
+      });
+
+      select.addEventListener('change', () => renderCharts(select.value));
+    }
+
+    function renderCharts(outlet) {
+      if (!outlet) return;
+
+      const filtered = data.filter(d => d.Outlet === outlet && d["Sale Value"] !== "Closed");
+
+      const months = filtered.map(d => d.Month);
+      const sales = filtered.map(d => +d["Sale Value"]);
+      const orders = filtered.map(d => +d["Number of Orders"]);
+      const avgBills = filtered.map(d => +d["Avg Bill Value"]);
+
+      const totalSales = sales.reduce((a, b) => a + b, 0);
+      const totalOrders = orders.reduce((a, b) => a + b, 0);
+      const overallAvgBill = avgBills.length ? (avgBills.reduce((a,b)=>a+b,0)/avgBills.length).toFixed(2) : 0;
+
+      document.getElementById('totalSales').textContent = totalSales.toLocaleString();
+      document.getElementById('totalOrders').textContent = totalOrders.toLocaleString();
+      document.getElementById('avgBill').textContent = overallAvgBill;
+
+      updateChart(salesChart, months, sales);
+      updateChart(ordersChart, months, orders);
+      updateChart(avgChart, months, avgBills);
+    }
+
+    function updateChart(chart, labels, data) {
+      chart.data.labels = labels;
+      chart.data.datasets[0].data = data;
+      chart.update();
+    }
+
+    loadData();
+  </script>
+</body>
+</html>
